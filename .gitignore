@@ -1,0 +1,13 @@
+# Logs
+*.log
+thumbnail_fix.log
+
+# Temp & Backup files
+/tmp/
+*.tmp
+*.bak
+
+# OS specific files
+Thumbs.db
+.DS_Store
+ehthumbs.db
